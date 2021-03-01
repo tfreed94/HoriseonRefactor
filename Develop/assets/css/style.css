@@ -1,3 +1,5 @@
+/* Styling for the layout of our webpage */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Styling/positioning for our header/nav element selectors and for our links */
 
 header {
     padding: 20px;
@@ -41,6 +45,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Styling for text element selectors (links and paragraphs) */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,6 +55,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Class with its own section for our background image size and positioning */
 
 .hero {
     height: 800px;
@@ -59,6 +67,7 @@ p {
     background-position: center;
 }
 
+/* Float positioning for our main images */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,11 +78,15 @@ p {
     margin-left: 25px;
 }
 
+/* Positioning and size of our main */
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Styling/positioning/size of our aside element selector */
 
 aside {
     margin-right: 20px;
@@ -85,6 +98,8 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* Styling/positioning for our benefit classes and size/positioning for our aside images */
 
 .benefit {
     margin-bottom: 32px;
@@ -101,6 +116,8 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Style/positioning for our tips classes and size/positioning for our main images */
 
 .tips {
     margin-bottom: 20px;
@@ -119,6 +136,8 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Styling/positioning for our footer element selectors */
 
 footer {
     padding: 30px;

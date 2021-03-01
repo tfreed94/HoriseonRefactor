@@ -2,7 +2,6 @@ For this project, I reworked some of code in the HTML doc and CSS stylesheet. Th
 
 In the CSS stylesheet, I condensed and consolidated any classes with the same attributes into one class and changed some classes to element selectors. Then, I commented each new class or element selector describing what it's doing for our code. 
 
-homework\horiseonrefactor\assets\images\HoriseonRefactor.png
-homework\horiseonrefactor\assets\images\HoriseonRefactor2.png
+homework\horiseonrefactor\assets\images\tfreed94.github.io_HoriseonRefactor_.png
 
 https://tfreed94.github.io/HoriseonRefactor/
